@@ -1,21 +1,21 @@
 {
   "Config": [
     {
-      "interval": 5,
+      "interval": 2,
       "backup": "unity",
       "status": true,
       "link": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": false,
-      "texture": false,
-      "skin": true,
+      "texture": true,
+      "skin": false,
       "more": false,
       
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_open_ads": "ca-app-pub-3044835834543602/2486175267",
+      "admob_banner": "ca-app-pub-3044835834543602/4994301995xxx",
+      "admob_inter": "ca-app-pub-3044835834543602/4809086271",
+      "admob_native": "ca-app-pub-3044835834543602/3681220325",
      
       
       "unity_banner": "Banner_Android",
@@ -34,13 +34,141 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+      "name": "Ultraman Trigger Addons V2",
+      "role": "Hello everyone, today I will share the ultraman trigger addons. In this addons there are lots of mobs such as the ultraman trigger form, namely multi type, sky type, power type, there are also dark giants like carmila, dargon, and hyudram and the new kaju is golba",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Ultraman/1/3.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Ultraman/1/Ultraman Trigger Addons.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Ultraman/1/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Ultraman/1/1.jpeg"
+  },
+  {
+      "name": "Ultraman Taiga New Generation Climax Addons",
+      "role": "Hello everyone, today I will share the Ultraman Taiga New Generation Climax addons. In this addons there are many mobs namely ultraman ginga victory, ultraman exceed x beta spark armor, ultraman orb trinity, ultraman geed ultimate final, ultraman gruebe, and ultraman reiga",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Ultraman/2/3.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Ultraman/2/Ultraman Taiga New Generation Climax Addons.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Ultraman/2/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Ultraman/2/1.jpeg"
+  },
+  {
+      "name": "Ultraman Gaia Addons",
+      "role": "Hello everyone today I will share Ultraman Gaia addons, There are some mobs like Ultraman Gaia and Agul and also there are mobs monsters like Meemos, Imitation Gaia, Super C.O.V, and X-Savager",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Ultraman/3/3.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Ultraman/3/Ultraman Gaia Addons.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Ultraman/3/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Ultraman/3/1.jpeg"
+  },
+  {
+    "name": "Naruto Craft Addon (B)",
+    "role": "his addon is inspired by a Japanese manga series known as Naruto. In all simplicity, it tells the story of a young ninja and his dreams of becoming the best and most knowledgeable ninja. Here is a great addon for anyone who is a fan of Naruto or just ninjas in general. It replaces a multitude of mobs, weapons and armors. It's currently quite simple in terms of custom features but hopefully that can improve over time",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/satu.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/behavior/NarutoJedyV3.8B.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/dua.jpg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/tiga.jpg"
+},
+{
+    "name": "Naruto Craft Addon (R)",
+    "role": "his addon is inspired by a Japanese manga series known as Naruto. In all simplicity, it tells the story of a young ninja and his dreams of becoming the best and most knowledgeable ninja. Here is a great addon for anyone who is a fan of Naruto or just ninjas in general. It replaces a multitude of mobs, weapons and armors. It's currently quite simple in terms of custom features but hopefully that can improve over time",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/satu.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/resource/NarutoJedyV3.8R.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/dua.jpg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/tiga.jpg"
+},
+{
+    "name": "Naruto Run Animation (Not Emote)",
+    "role": "Are you bored with Minecraft running animations? Let me introduce my addons. the name is Naruto Run animation. The name is animated Naruto Run not emote, remember not emote. This addon will make Minecraft more like a Ninja in Minecraft",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/satu.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/Naruto-RunNOT-EMOTE-addons.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/satu.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/dua.png"
+},
+{
+    "name": "Naruto Addon",
+    "role": "Naruto is the main character of an anime called Naruto Shippuden created by Masashi Kishimoto. This add-on adds Naruto to your world with special tactics and abilities to defeat it's enemies.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/iga.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/Naruto_Addon.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/dua.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/satu.png"
+},
+{
+    "name": "Throwables Addon Small Update (+102 Throwable Items [Simple Throwing Knives] (B))",
+    "role": "So this addon adds +102 throwable items but i have to say that I just created this mod for fun but it actually has some good use in your survival world and is also multiplayer compatible.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/satu.png",
+    "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/6/Throwables_addon_1619037444728.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/dua.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/tiga.png"
+},
+{
+    "name": "Naruto Run Addon",
+    "role": "'Naruto Run' is a completely new way to experience Minecraft! Hit crouch, and now you're fast! I know, very very cool! This add-on will literally™ change your perspective on life, you're welcome!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/dua.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/naruto_run.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/dua.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/satu.png"
+},
+{
+    "name": "Naruto Jedy V3.8 - New Era Update",
+    "role": "This is a Naruto addon made by a Brazilian fan for other fans. Use Sharingan, Byakugan, Mangekyo, Rinnegan, Susanoos !!! Be a Jinchuuriki, defeat Bijuus, fight ninjas and more! Its main attraction are the textures and models belonging to this addon are completely innovative, beautiful and in HD",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/NarutoJedy_R.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/1.png"
+},
+{
+    "name": "Naruto Ultimate - 2.0 (B)",
+    "role": "Naruto Ultimate - 2.0 An addon where you can select your clan (Uchiha, Hyuuga, etc.), once selected you can gradually evolve in the addon gaining more strength and power for a better gaming experience is recommended to play online, there are several ways in which you can get both Bijuus, Susanoos, Sage Ways, etc. to evolve in the addon it is necessary to eliminate NPC from the addon, which generates randomly throughout the game, when you kill these NPC, it will drop items so that your evolution in the game is possible.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/Naruto_Ultimate2.0BE.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/1.png"
+},
+{
+    "name": "Naruto Ultimate - 2.0 (R)",
+    "role": "Naruto Ultimate - 2.0 An addon where you can select your clan (Uchiha, Hyuuga, etc.), once selected you can gradually evolve in the addon gaining more strength and power for a better gaming experience is recommended to play online, there are several ways in which you can get both Bijuus, Susanoos, Sage Ways, etc. to evolve in the addon it is necessary to eliminate NPC from the addon, which generates randomly throughout the game, when you kill these NPC, it will drop items so that your evolution in the game is possible.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/Naruto_Ultimate2.0RE.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/1.png"
+},
+{
+    "name": "Realistic Naruto Run (Not Emote)",
+    "role": "Best texture that adds equal race from anime naruto shippuden and boruto next generation in minecraft bedrock that works in multiplayer and online servers. It has a smooth run, very realistic and faithful to the anime",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/3.png",
+    "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/18/Raruto Race.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/2.png"
+},
+{
+    "name": "Naruto Infinity Z *Sennin Update* (B)",
+    "role": "New update of the naruto addon for minecraft that adds all the sennin mode of the anime in minecraft and you can have access just by playing in survival, all susanoos have craft and you can do them in survival without any problem and the addon is 100% survival",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/Naruto sennin update [B].mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/1.png"
+},
+{
+    "name": "Naruto Infinity Z *Sennin Update* (R)",
+    "role": "New update of the naruto addon for minecraft that adds all the sennin mode of the anime in minecraft and you can have access just by playing in survival, all susanoos have craft and you can do them in survival without any problem and the addon is 100% survival",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/6.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/Naruto sennin update [R].mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/5.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/4.png"
+},
+{
+    "name": "Naruto Strike Lite Addon (B)",
+    "role": "Naruto strike addon for minecraft bedrock edition, with many jutsus from the anime naruto shippuden and also from the anime boruto next generation, addon was based on the game naruto to boruto strike now I get a new version that is lighter made to run on weaker cell phones and pc",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/NARUTO STRIKER optimization edit [B].mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/1.png"
+},
+{
+    "name": "Naruto Strike Lite Addon (R)",
+    "role": "Naruto strike addon for minecraft bedrock edition, with many jutsus from the anime naruto shippuden and also from the anime boruto next generation, addon was based on the game naruto to boruto strike now I get a new version that is lighter made to run on weaker cell phones and pc",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/6.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/NARUTO STRIKER optimization [R].mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/5.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/4.png"
+}
   ],
   "Map": [
     {
@@ -54,13 +182,149 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+      "name": "Naruto Head protector (Japanese 額当て, Hitai-ate) + Minimalistic Armor Texture",
+      "role": "This texture pack will change the texture of your armor to a more minimalistic one, which will allow you to better see other people's skins. Also, these textures will replace your usual helmets with head protectors from the anime Naruto.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/Naruto Armor.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/dua.png"
+  },
+  {
+      "name": "The Male Anime Characters [Skin Pack]",
+      "role": "From popular animes such as Naruto, One Piece, Dragon Ball, Demon Slayer: Kimetsu no Yaiba, My Hero Academia, Black Clover, HunterXHunter and more– now compiled into one giant Minecraft skin pack! With over 90 skins and more to come!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/Male Anime Characters [v3.0].mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/dua.png"
+  },
+  {
+      "name": "Naruto Armors and Jutsus Addon (B)",
+      "role": "Hello! This is my Naruto Addon that adds armor and jutsus with animation! Yes - animation! This is just a beta that adds few things, if it is very supported I will soon bring more things. :)",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/satu.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/naruto_armors_and_jutsusB.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/dua.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/tiga.jpg"
+  },
+  {
+      "name": "Naruto Armors and Jutsus Addon (R)",
+      "role": "Hello! This is my Naruto Addon that adds armor and jutsus with animation! Yes - animation! This is just a beta that adds few things, if it is very supported I will soon bring more things. :)",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/satu.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/naruto_armors_and_jutsusR.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/dua.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/tiga.jpg"
+  },
+  {
+      "name": "Naruto's Akatsuki Skin Pack",
+      "role": "The Naruto's Akatsuki Skin Pack was maded on base of the organization Akatsuki of the Animé Naruto, Naruto Shippuden. You can use it on your preference Servers, Worlds or Realms.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/tiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/Narutos-Akatsuki-Skin-Pack---ESMM.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/dua.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/satu.png"
+  },
+  {
+      "name": "Elemental Weapons (V.1.0) (B)",
+      "role": "This addon adds 20 new elemental weapons(survival compatible), each weapon has a special ability. To use the ability long press on mobile, right click on pc, or right trigger for console. Some of the swords also give you extra health",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/satu.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/ElementalWeaponsB.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/dua.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/tiga.jpeg"
+  },
+  {
+      "name": "Elemental Weapons (V.1.0) (R)",
+      "role": "This addon adds 20 new elemental weapons(survival compatible), each weapon has a special ability. To use the ability long press on mobile, right click on pc, or right trigger for console. Some of the swords also give you extra health",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/satu.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/ElementalWeaponsR.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/dua.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/tiga.jpeg"
+  },
+  {
+      "name": "Naruto Skinpack",
+      "role": "Every character is here!Wishing you could role-play/re-enact one of Naruto's characters? Well, wish no more! With over 40 different skins, featuring all of your most favourite protagonists, (or antagonists!), you don't have to wait. Just download it, and bam! It's already sitting in your skin packs.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/satu'.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/Naruto_Skinpack.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/dua.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/tiga.png"
+  },
+  {
+      "name": "Drip Skin Pack 1.5 [+25 skins]",
+      "role": "Drip skin pack is, as the title says, a skin pack where all your favourite characters skins (Anime characters, Games characters, Animal skins...) are, unusually, wearing Hypebeast clothes! This skin pack is also inspired by the hugely popular Drip meme",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/satu.png",
+      "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/11/Drip Pack 1.5 By Simon.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/dua.png"
+  },
+  {
+    "name": "Not Mowzie's Mobs Addon (B)",
+    "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/5.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie BP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/4.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png"
+},
+{
+    "name": "Not Mowzie's Mobs Addon (R)",
+    "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie RP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/1.png"
+},
+{
+    "name": "Minecraft 1.18 Mobs Skin Pack",
+    "role": "At some point during a MINECRAFT game, haven't you seen an axolotl and wanted to become one? Or on the other hand, do you think you would intimidate your enemies by seeing yourself as The Warden? Well then this mob skin pack is for you.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/MINECRAFT_1.18_MOBS_SKIN_PACK.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg"
+},
+{
+    "name": "Craft Sims (B)",
+    "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims BEH.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/2.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/1.jpeg"
+},
+{
+    "name": "Craft Sims (R)",
+    "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/5.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims RES.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/4.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg"
+},
+  {
+      "name": "Naruto Skinpack",
+      "role": "Every character is here!Wishing you could role-play/re-enact one of Naruto's characters? Well, wish no more! With over 40 different skins, featuring all of your most favourite protagonists, (or antagonists!), you don't have to wait. Just download it, and bam! It's already sitting in your skin packs.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/Naruto_Skinpack.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/3.png"
+  },
+  {
+      "name": "Naruto United V3.0",
+      "role": "This is a Naruto United game addon made by a brazilian fan for other fans to play. Use Kekkei Genkais, customize your characters with hair color, gender, fight ninjas and more..",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/Naruto_United_V3.0.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/1.png"
+  },
+  {
+      "name": "Ninjutsu Addon (B)",
+      "role": "This is an addon which introduces three new mobs to the game and all of them are useful in their own way seeing as they are all friendly toward players. This addon is inspired by Ninjutso (ninjas) and Naruto. So if you are interested in either of those topics then you will likely enjoy this addon as well.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/Ninjutsu Behavior.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/1.jpg"
+  },
+  {
+      "name": "Ninjutsu Addon (R)",
+      "role": "This is an addon which introduces three new mobs to the game and all of them are useful in their own way seeing as they are all friendly toward players. This addon is inspired by Ninjutso (ninjas) and Naruto. So if you are interested in either of those topics then you will likely enjoy this addon as well.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/Ninjutsu Resource.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/1.jpg"
+  }
   ],
   "Skins": [
 {
